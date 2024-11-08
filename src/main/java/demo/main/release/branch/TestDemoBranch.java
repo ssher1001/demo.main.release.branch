@@ -9,4 +9,10 @@ public class TestDemoBranch
 		System.out.println("this is added by main release");
 	}
 
+	public static void branchFirst() 
+	{
+		
+		System.out.println("this is added by first");
+	}
+	
 }
