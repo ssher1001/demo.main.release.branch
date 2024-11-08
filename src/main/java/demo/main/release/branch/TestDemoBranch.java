@@ -13,6 +13,13 @@ public class TestDemoBranch
 	{
 		
 		System.out.println("this is added by first");
+		System.out.println("this is added by second branch");
+	}
+	
+	public static void secondFirst() 
+	{
+		
+		System.out.println("this is added by second branch");
 	}
 	
 }
