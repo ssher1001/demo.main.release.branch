@@ -7,6 +7,9 @@ public class TestDemoBranch
 	{
 		
 		System.out.println("this is added by main release");
+		System.out.println("this is added by first branch");
+
+		
 	}
 
 	public static void branchFirst() 
